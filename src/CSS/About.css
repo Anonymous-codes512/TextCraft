@@ -1,0 +1,29 @@
+body{
+    width: 100vw;
+    height: 100vh;
+    
+}
+.Container{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width: 90%;
+    height: 36rem;
+    margin:10px auto;
+}
+
+.appName{
+    font-size: 4rem;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    line-height: 3rem;
+    letter-spacing: 0.1rem;
+    font-weight: bolder;
+}
+
+.description{
+    font-size:1.2rem;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    margin:1rem 6rem;
+    text-align: center;
+}
