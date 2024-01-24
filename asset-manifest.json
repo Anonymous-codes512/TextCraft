@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/TextCraft/static/css/main.e6c13ad2.css",
+    "main.js": "/TextCraft/static/js/main.53c03209.js",
+    "static/js/787.ac16b2ea.chunk.js": "/TextCraft/static/js/787.ac16b2ea.chunk.js",
+    "index.html": "/TextCraft/index.html",
+    "main.e6c13ad2.css.map": "/TextCraft/static/css/main.e6c13ad2.css.map",
+    "main.53c03209.js.map": "/TextCraft/static/js/main.53c03209.js.map",
+    "787.ac16b2ea.chunk.js.map": "/TextCraft/static/js/787.ac16b2ea.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.53c03209.js"
+  ]
+}
